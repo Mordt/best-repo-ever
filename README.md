@@ -1,2 +1,2 @@
 # best-repo-ever
-sf repo for practising git and ci/cd stuff with sfdx
+sf repo for practicing git and ci/cd stuff with sfdx
